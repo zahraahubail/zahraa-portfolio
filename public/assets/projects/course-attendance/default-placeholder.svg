@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+  <title id="title">Course Attendance project placeholder</title>
+  <desc id="desc">A dark blue placeholder for future project screenshots.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07162d"/>
+      <stop offset="1" stop-color="#102e4d"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#31c5f4" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="800" fill="url(#background)"/>
+  <rect width="1280" height="800" fill="url(#grid)"/>
+  <circle cx="1100" cy="130" r="190" fill="#31c5f4" opacity=".06"/>
+  <g fill="none" stroke="#31c5f4" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" opacity=".75">
+    <rect x="508" y="205" width="264" height="300" rx="28"/>
+    <path d="M575 205v-40m130 40v-40M570 300h140M570 365h90M570 430h125"/>
+    <path d="m685 363 27 27 54-66"/>
+  </g>
+  <text x="640" y="600" fill="#f1f5f9" font-family="ui-sans-serif,system-ui,sans-serif" font-size="48" font-weight="700" text-anchor="middle">Course Attendance System</text>
+  <text x="640" y="654" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="22" text-anchor="middle">screenshots coming soon</text>
+</svg>
