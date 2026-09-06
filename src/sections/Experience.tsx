@@ -24,8 +24,8 @@ export function Experience() {
             className="rounded-xl border border-border-subtle bg-surface p-6 shadow-card sm:p-8"
           >
             <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-              <div className="flex gap-4">
-                <span className="hidden h-20 w-20 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-border-subtle bg-white text-accent sm:flex">
+              <div className="flex flex-col gap-4 sm:flex-row">
+                <span className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-border-subtle bg-white text-accent sm:h-20 sm:w-20">
                   {item.logo ? (
                     <img
                       src={item.logo}
