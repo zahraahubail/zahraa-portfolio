@@ -22,7 +22,6 @@ export const experience: ExperienceItem[] = [
       'Used Postman to validate API endpoints during development.',
       'Used Gitea for version control and collaborative development.',
     ],
-    note: 'The backend and MySQL portion of the attendance system was still in progress and not completed during the internship period.',
     tags: ['SharePoint', 'Power Automate', 'React', 'jQuery', 'Postman', 'Gitea'],
   },
   {
