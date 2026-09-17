@@ -8,7 +8,7 @@ export const education: EducationItem[] = [
   {
     institution: 'Bahrain Polytechnic',
     program: "Bachelor's in Programming",
-    period: 'September 2023 – June 2027 (expected)',
+    period: 'September 2023 – Present',
     achievement: 'GPA 3.97 / 4.00',
     details:
       'Coursework across full-stack web development, enterprise architecture, databases, mobile development, machine learning, and networking.',
